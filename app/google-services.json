@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "178622817433",
-    "project_id": "shopease-506f6",
-    "storage_bucket": "shopease-506f6.appspot.com"
+    "project_number": "78248967290",
+    "project_id": "onefitdatabase",
+    "storage_bucket": "onefitdatabase.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:178622817433:android:0a85633409deb13b7c4408",
+        "mobilesdk_app_id": "1:78248967290:android:cef38c0288104a3dbc0fc3",
+        "android_client_info": {
+          "package_name": "com.abidingtech.onefit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ36gqNbT0sNGtvFx6JW5jyi_M4XzNIyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78248967290:android:de296be562b33351bc0fc3",
         "android_client_info": {
           "package_name": "com.example.newEcom"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBKoiASZZ6Av4eM8euX4IGNPV_xNsYUzkI"
+          "current_key": "AIzaSyAQ36gqNbT0sNGtvFx6JW5jyi_M4XzNIyU"
         }
       ],
       "services": {
